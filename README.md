@@ -6,22 +6,22 @@
 
 
 ## 🌍 Acerca de mí
-Soy originaria de la ciudad de Chinameca, en San Miguel, El Salvador. Actualmente, me encuentro  en el mundo de la informática como estudiante de Kodigo, en El Salvador.
+Soy originario de el Cantón el Huehuecho, en Chinameca, El Salvador. Actualmente, me encuentro  estudiando software, en El Salvador.
 
 ## 🎓 Educación
-- **Ingenieria en Sistemas Informaticos** <br>
-  Universidad de Oriente(UNIVO)
+- **Estudiante 1°,2° y 3° ciclo** <br>
+  Centro Escolar Cantos Los Planes Primero
   
-- **Curso de formación docente**  
-  Universidad de Oriente(UNIVO)
+- **Curso de formación estudiante**  
+  Software en, Instituto Nacional de Nueva Guadalupe 
 
 
 ## 💻 Intereses tecnológicos
-Me gusta  **conocer sobre la robotica**.
+Me gusta  **conocer sobre las computadoras y celulares**.
 
 
 ## 🤝  ¡Colaboremos!
-Te interesa implementar nuevos conocimietos te doy la bienvenida, si eres un entusiasta a conocer nuevos proyectos o simplemente te interesa saber más sobre mi trayectoria, estoy deseando conectar contigo y colaborar. ¡Creemos algo increíble juntos!
+Me gustaria saber más sobre la informatica, tecnologia, saber otras idiomas, y ¡Espero que crescamos justo deste hoy en adelante!
 </div>
 
 
@@ -54,8 +54,7 @@ Te interesa implementar nuevos conocimietos te doy la bienvenida, si eres un ent
 
 ¡Estoy abierto a nuevas oportunidades y colaboraciones! Puedes contactarme a través de:
 
-* 💼 **LinkedIn:** https://www.linkedin.com/in/ana-raquel-g-82931a331/
-* 📧 **Correo electrónico:** ana.raquel.gomez@clases.edu.sv
+* 📧 **Correo electrónico:**brayanmaravilla134@gmail.com
 
 ---
 <picture>
