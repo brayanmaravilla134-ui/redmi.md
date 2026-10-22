@@ -95,6 +95,6 @@ Me gustaria saber más sobre la informatica, tecnologia, saber otras idiomas, y 
 </div>
 
 ------
-Creado: [Ana Raquel](https://github.com/anaraquelgomez-maker)
+Creado: [Bryan Alexis](https://github.com/brayanmaravilla134-ui)
 
-Last Edited on: 20/04/2026
+Last Edited on: 22/10/2026
